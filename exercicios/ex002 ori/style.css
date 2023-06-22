@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: darkseagreen;
+}
+div {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  width: 100px;
+  height: 200px;
+  margin: 100px;
+  border: 10px solid #217373;
+  background-color: azure;
+}
